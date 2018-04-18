@@ -19,3 +19,5 @@ npm run build --report
 ```
 
 这个一个Vue的实战项目例子，使用了Vue+Vuex+Vue-Router+Element-UI，仅供自己参考练手
+
+修改router下index.js mode参数，设置为hash，如果设置为history打包后无法正常显示，待研究解决
